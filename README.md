@@ -273,7 +273,7 @@ Readings:
 Recommended:
 - Burt, R. S. (2001), ‘The Social Capital of Structural Holes’ in M. F. Guilén, R. Collins, P. England and Meyer (eds), New Directions in Economic Sociology, New York: Russell and Sage Foundation, 201-247.
 
-**Quiz 1**
+**Quiz #1**
 
 
 
@@ -293,7 +293,7 @@ Readings:
 Recommended:
 - Lazer, D. et al. (2009). “Computational Social Science.” Science323: 721-23.
 
-**Quiz 2**
+**Quiz #2**
 
 
 
@@ -308,7 +308,7 @@ Readings:
 -  What exactly is building a statistical model? Cross Validated. http://stats.stackexchange.com/a/63091
  - Silver, N. (2016). "How We're Forecasting the Primaries. "FiveThirtyEight.” http://fivethirtyeight.com/features/how-we-are-forecasting-the-2016-presidential-primary-election/http://guessthecorrelation.com/
 
-**Quiz 3**
+**Quiz #3**
 
 
 
@@ -325,7 +325,7 @@ Readings:
 Recommended:
   - Healy, K. and Moody, J. (2014). "Data Visualization in Sociology." Annual Review of Sociology, 40:105-28.
 
-**Quiz 4**
+**Quiz #4**
 
 
 
@@ -346,7 +346,7 @@ Reading:
 
  - MuleSoft. 2015. "What is an API?"https://www.youtube.com/watch?v=s7wmiS2mSXY
  
-**Quiz 5**
+**Quiz #5**
 
 
 
@@ -367,7 +367,7 @@ Psychological Science Agenda, 15, 8-9.
 Recommended:  
  - Grimmer J. and Stewart, B. (2013). "Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts." Political Analysis, 267-97.
 
-**Quiz 6**
+**Quiz #6**
 
 
 
@@ -380,7 +380,7 @@ Section: Social data project of interest
 
 Readings: to be determined. Students will be informed on the nature of the project 2 weeks in advance.
 
-**Quiz 7**
+**Quiz #7**
 
 
 
@@ -393,7 +393,7 @@ Section: Social media case study
 
 Readings: to be determined. Students will be given the name of the organization 2 weeks in advance. 
 
-**Quiz 8**
+**Quiz #8**
 
 
 
@@ -411,7 +411,7 @@ Readings:
 Recommended: 
 - Ricoeur, P. (1990). Avant la morale : l’éthique. Les Enjeux. Paris: Encyclopedia Unversalis. pp. 42-45.
 
-**Quiz 9**
+**Quiz #9**
 
 
 
@@ -430,7 +430,7 @@ http://journal.media-culture.org.au/index.php/mcjournal/article/view/364
 Recommended:  
 - The Economist (2016). Politics by numbers, captured on https://www.economist.com/news/special-report/21695190-voters-america-and-increasingly-elsewhere-too-are-being-ever-more-precisely 
 
-**Quiz 10**
+**Quiz #10**
 
 
 
