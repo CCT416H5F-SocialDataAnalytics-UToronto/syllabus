@@ -449,3 +449,6 @@ Section: Case studies exposé (oral presentations)
 Important note:  Every attempt will be made to follow this syllabus, but its content is subject to change, according to the rules as outlined in the UTM Instructor's Handbook, section 3.2.2.
 
 
+
+  Oulai Bertrand Goué – August 2017 – University of Toronto Mississauga
+
